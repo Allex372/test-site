@@ -1,0 +1,396 @@
+#vector1-vacanc{
+    position: absolute;
+    width: 931.66px;
+    height: 1072.96px;
+    left: 987.34px;
+    top: 4.5px;
+    overflow: hidden;
+}
+#vector2-vacanc{
+    position: absolute;
+    width: 871px;
+    height: 1073px;
+    left: 1049px;
+    top: -25px;
+    overflow: hidden;
+}
+#vector3-vacanc{
+    position: absolute;
+    width: 800px;
+    height: 1073px;
+    left: 1137px;
+    top: -56px;
+    overflow: hidden;
+}
+#planet02{
+    position: absolute;
+    width: 162px;
+    height: 153.24px;
+    left: 1595.65px;
+    top: 75.68px;
+}
+#planet2{
+    position: absolute;
+    width: 65px;
+    height: 87.11px;
+    left: 1850px;
+    top: 391.98px;
+}
+#pl6{
+    position: absolute;
+    width: 350px;
+    height: 245px;
+    left: 1500px;
+    top: 800px;
+}
+#planet3-vector{
+    position: absolute;
+    width: 150.94px;
+    height: 162.2px;
+    left: 1460.82px;
+    top: 929.88px;
+}
+#planet3-elipce{
+    position: absolute;
+    width: 162px;
+    height: 100px;
+    left: 1612px;
+    top: 100px;
+}
+#el11-vac{
+    position: absolute;
+    width: 16.18px;
+    height: 23.05px;
+    left: 1690px;
+    top: 117px;
+}
+#pol1{
+    position: absolute;
+    width: 45px;
+    height: 128.13px;
+    left: 1861px;
+    top: 10px;
+    transform: rotate(12deg);
+}
+#pol2{
+    position: absolute;
+    width: 45px;
+    height: 65.01px;
+    left: 1852px;
+    top: 67px;
+
+}
+#el23-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1876px;
+    top: 232px;
+}
+#el8-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1607px;
+    top: 280px;
+}
+#el14-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1360px;
+    top: 370px;
+}
+#el26-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1799.99px;
+    top: 363px;
+}
+#rocket-vac{
+    position: absolute;
+    width: 500px;
+    height: 481.08px;
+    left: 820px;
+    top: 150px;
+}
+#el22-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1595.65px;
+    top: 552px;
+}
+#el4-vac{
+    position: absolute;
+    width: 10.3px;
+    height: 13.03px;
+    left: 1226px;
+    top: 598px;
+}
+#el22-down{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1424px;
+    top: 748px;
+}
+#el17-vac{
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    left: 1700px;
+    top: 874.95px;
+}
+#el10-vac{
+    position: absolute;
+    width: 13px;
+    height: 13.03px;
+    left: 1890px;
+    top: 840px;
+}
+#star1{
+    position: absolute;
+    width: 35px;
+    height: 51.78px;
+    left: 1427.64px;
+    top: 574px;
+}
+#star2{
+    position: absolute;
+    width: 45px;
+    height: 83.32px;
+    left: 1729.62px;
+    top: 649px;
+}
+#vec4-vac{
+    position: absolute;
+    width: 362px;
+    height: 457px;
+    left: 0px;
+    top: 746px;
+}
+#vec5-vac{
+    position: absolute;
+    width: 309px;
+    height: 412px;
+    left: 0px;
+    top: 765px;
+}
+#vec6-vac{
+    position: absolute;
+    width: 295px;
+    height: 382.5px;
+    left: 0px;
+    top: 782.5px;
+}
+#el33{
+    position: absolute;
+    width: 123.13px;
+    height: 118.57px;
+    left: 82.24px;
+    top: 850px;
+}
+#el34{
+    position: absolute;
+    width: 79.63px;
+    height: 79.11px;
+    left: 50px;
+    top: 1080px;
+}
+#el14-vac-left{
+    position: absolute;
+    width: 4.72px;
+    height: 5.68px;
+    left: 65.05px;
+    top: 830.77px;
+}
+#el7-vac{
+    position: absolute;
+    width: 7.23px;
+    height: 10.59px;
+    left: 51.32px;
+    top: 890.91px;
+}
+#el4-vac-left{
+    position: absolute;
+    width: 4.72px;
+    height: 5.68px;
+    left: 0px;
+    top: 990.44px;
+}
+#el16-vac{
+    position: absolute;
+    width: 4.72px;
+    height: 5.68px;
+    left: 102.28px;
+    top: 1009.92px;
+}
+#el17-vac-left{
+    position: absolute;
+    width: 7.42px;
+    height: 10.05px;
+    left: 180.35px;
+    top: 1067.95px;
+}
+#el10-vac-left{
+    position: absolute;
+    width: 4.72px;
+    height: 5.68px;
+    left: 230.94px;
+    top: 1009.92px;
+}
+#planet4{
+    position: absolute;
+    width: 320.22px;
+    height: 388.84px;
+    left: 1630px;
+    top: 1225px;
+}
+#planet5{
+    position: absolute;
+    width: 223.84px;
+    height: 284.91px;
+    top: 1845px;
+}
+#center{
+    position: absolute;
+    height: 1100px;
+    width: 1600px;
+    top: 1000px;
+    left: 150px;
+}
+#left{
+    position: absolute;
+    width: 500px;
+    height: 400px;
+}
+#tb1{
+    position: absolute;
+    top: 280px;
+}
+#rec2{
+    position: absolute;
+    left: 220px;
+    top: 30px;
+}
+#re2\(1\){
+    position: absolute;
+    left: 220px;
+    margin-bottom: 10px;
+}
+#tab01{
+    position: absolute;
+    left: 330px;
+    top: 55px;
+}
+#tab02{
+    position: absolute;
+    left: 222px;
+    top: 90px;
+}
+#rec2\.2{
+    position: absolute;
+    top: 350px;
+    left: 800px;
+}
+#el26{
+    position: absolute;
+    top: 350px;
+    left: 800px;
+}
+#laptop{
+    position: absolute;
+    top: 410px;
+    left: 865px;
+}
+
+#rec2\.2\.1{
+    position: absolute;
+    top: 450px;
+    left: 1300px;
+}
+#el26\.1{
+    position: absolute;
+    top: 450px;
+    left: 1300px;
+}
+#speed{
+    position: absolute;
+    top: 525px;
+    left: 1370px;
+}
+#rec2-bottom{
+    position: absolute;
+    top: 820px;
+    left: 150px;
+}
+#el26-bottom{
+    position: absolute;
+    top: 820px;
+    left: 150px;
+}
+#icon-react{
+    position: absolute;
+    top: 885px;
+    left: 220px;
+}
+#rec2-bottom-center{
+    position: absolute;
+    top: 820px;
+    left: 620px;
+}
+#el26-bottom-center{
+    position: absolute;
+    top: 820px;
+    left: 620px;
+}
+#icon-js{
+    position: absolute;
+    top: 885px;
+    left: 685px;
+}
+#rec2-bottom-left{
+    position: absolute;
+    top: 820px;
+    left: 1100px;
+}
+#el26-bottom-left{
+    position: absolute;
+    top: 820px;
+    left: 1100px;
+}
+#icon-test{
+    position: absolute;
+    top: 880px;
+    left: 1170px;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+

@@ -1,0 +1,307 @@
+@import url('https://fonts.googleapis.com/css2?family=Noto+Sans&display=swap');
+
+.bottom{
+    background: #FFEFFF;
+}
+#vector1-vacanc{
+    position: absolute;
+    width: 931.66px;
+    height: 1072.96px;
+    left: 987.34px;
+    top: 4.5px;
+    overflow: hidden;
+}
+#vector2-vacanc{
+    position: absolute;
+    width: 871px;
+    height: 1073px;
+    left: 1049px;
+    top: -25px;
+    overflow: hidden;
+}
+#vector3-vacanc{
+    position: absolute;
+    width: 800px;
+    height: 1073px;
+    left: 1137px;
+    top: -56px;
+    overflow: hidden;
+}
+#planet02{
+    position: absolute;
+    width: 162px;
+    height: 153.24px;
+    left: 1595.65px;
+    top: 75.68px;
+}
+#planetSaturn{
+    position: absolute;
+    width: 350px;
+    height: 245px;
+    left: 1053px;
+    top: 354.73px;
+}
+#planet2{
+    position: absolute;
+    width: 65px;
+    height: 87.11px;
+    left: 1850px;
+    top: 391.98px;
+}
+#planet3{
+    position: absolute;
+    width: 180px;
+    height: 182px;
+    left: 1500px;
+    top: 800px;
+}
+#planet3-vector{
+    position: absolute;
+    width: 150.94px;
+    height: 162.2px;
+    left: 1460.82px;
+    top: 929.88px;
+}
+#planet3-elipce{
+    position: absolute;
+    width: 162px;
+    height: 100px;
+    left: 1612px;
+    top: 100px;
+}
+#el11-vac{
+    position: absolute;
+    width: 16.18px;
+    height: 23.05px;
+    left: 1690px;
+    top: 117px;
+}
+#pol1{
+    position: absolute;
+    width: 45px;
+    height: 128.13px;
+    left: 1861px;
+    top: 10px;
+    transform: rotate(12deg);
+}
+#pol2{
+    position: absolute;
+    width: 45px;
+    height: 65.01px;
+    left: 1852px;
+    top: 67px;
+
+}
+#el23-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1876px;
+    top: 232px;
+}
+#el8-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1607px;
+    top: 280px;
+}
+#el14-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1360px;
+    top: 370px;
+}
+#el26-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1799.99px;
+    top: 363px;
+}
+#rocket-vac{
+    position: absolute;
+    width: 500px;
+    height: 500px;
+    left: 1530.83px;
+    top: 410px;
+}
+#el22-vac{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1595.65px;
+    top: 552px;
+}
+#el4-vac{
+    position: absolute;
+    width: 10.3px;
+    height: 13.03px;
+    left: 1226px;
+    top: 598px;
+}
+#el22-down{
+    position: absolute;
+    width: 8px;
+    height: 8px;
+    left: 1424px;
+    top: 748px;
+}
+#el17-vac{
+    position: absolute;
+    width: 11px;
+    height: 11px;
+    left: 1700px;
+    top: 874.95px;
+}
+#el10-vac{
+    position: absolute;
+    width: 13px;
+    height: 13.03px;
+    left: 1890px;
+    top: 840px;
+}
+#star1{
+    position: absolute;
+    width: 35px;
+    height: 51.78px;
+    left: 1427.64px;
+    top: 574px;
+}
+#star2{
+    position: absolute;
+    width: 45px;
+    height: 83.32px;
+    left: 1729.62px;
+    top: 649px;
+}
+
+
+#about1 {
+    position: absolute;
+    display: flex;
+    width: 1018px;
+    height: 190px;
+    left: 350px;
+    top: 900px;
+}
+#about2 {
+    position: absolute;
+    width: 1018px;
+    display: flex;
+    height: 190px;
+    left: 350px;
+    top: 1100px;
+}
+#about3 {
+    display: flex;
+    position: absolute;
+    width: 1018px;
+    height: 190px;
+    left: 350px;
+    top: 1300px;
+}
+#about4 {
+    display: flex;
+    position: absolute;
+    width: 1018px;
+    height: 190px;
+    left: 350px;
+    top: 1500px;
+}
+#about5 {
+    display: flex;
+    position: absolute;
+    width: 1018px;
+    height: 190px;
+    left: 350px;
+    top: 1700px;
+}
+.about-style{
+    display: flex;
+    justify-content: space-around;
+    flex-direction: row;
+    width: 800px;
+}
+.about-style-background {
+    position: absolute;
+    width: 850px;
+    height: 163px;
+    margin-left: 120px;
+    /*top: 1207px;*/
+
+    background: linear-gradient(180deg, #FFE2FF 0%, #FFF7FF 100%);
+    box-shadow: 4px 2px 20px rgba(0, 0, 0, 0.2);
+    border-radius: 90px;
+}
+
+
+.img-background{
+    position: absolute;
+    width: 175px;
+    height: 175px;
+    z-index: 1;
+    margin-right: 800px;
+
+}
+.background{
+    width: 175px;
+    height: 175px;
+    z-index: 1;
+    border-radius: 50%;
+    background: #8B00AE;
+}
+
+/*.change-background{*/
+/*    position: absolute;*/
+/*    width: 175px;*/
+/*    height: 175px;*/
+/*    z-index: 1;*/
+/*    margin-right: 800px;*/
+/*    opacity: 0;*/
+/*}*/
+.img-background-top{
+    position: absolute;
+    width: 110px;
+    height: 110px;
+    z-index: 2;
+    margin-top: 30px;
+    margin-left: 25px;
+}
+.title-about{
+    position: absolute;
+    width: 162px;
+    height: 31px;
+    left: 65px;
+    top: 20px;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: 600;
+    font-size: 28px;
+    line-height: 31px;
+    /* identical to box height, or 111% */
+
+    text-align: center;
+
+    color: #44004F;
+}
+.text-about{
+    position: absolute;
+    width: 776px;
+    height: 62px;
+    left: 65px;
+    top: 60px;
+
+    font-family: Noto Sans;
+    font-style: normal;
+    font-weight: normal;
+    font-size: 22px;
+    line-height: 31px;
+    /* or 141% */
+
+
+    color: #9D00A6;
+
+}
