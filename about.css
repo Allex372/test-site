@@ -299,9 +299,9 @@
     bottom: 180px;
 }
 
-html{
-    overflow: scroll;
-}
+/*html{*/
+/*    overflow: scroll;*/
+/*}*/
 
 #info-man{
     position: absolute;
